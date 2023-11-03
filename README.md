@@ -1,3 +1,3 @@
 # alarm-system
 
-## 클린아키텍처 연습을 위한 리파지토리입니다.
+<img width="549" alt="image" src="https://github.com/dohoonkim023/notification-system/assets/58586521/6dd6486d-9504-41aa-90e2-b71a76f68b45">
